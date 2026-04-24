@@ -1,0 +1,6 @@
+Scan results for: scanme.nmap.org
+PORT      SERVICE        BANNER
+-------------------------------------------------------
+22        SSH            SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+80        HTTP           HTTP/1.1 200 OK
+Date: Fri, 24 Apr 2026 16:38:20 G
